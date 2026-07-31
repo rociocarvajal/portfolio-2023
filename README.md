@@ -32,7 +32,7 @@ Bienvenidos/as a mi portfolio! Este README contiene una vision general de mi tra
 ![Captura de pantalla (362)](https://github.com/rociocarvajal/portfolio/assets/136781946/5fbf226a-76e7-42ac-881c-238ffb22a1a4)
 
 > [!IMPORTANT]
-> Para abrir el proyecto _[click here.](https://rociocarvajal.github.io/portfolio/)_
+> Para abrir el proyecto _[click here.](https://rociocarvajal.github.io/portfolio-2023/)_
 > 
 > Tambien disponible version mobile.:space_invader:
 
